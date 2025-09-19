@@ -1,0 +1,18 @@
+[submodule "rime-prelude"]
+	path = rime-prelude
+	url = https://github.com/rime/rime-prelude
+[submodule "rime-ice"]
+	path = rime-ice
+	url = https://github.com/iDvel/rime-ice
+[submodule "rime-frost"]
+	path = rime-frost
+	url = https://github.com/gaboolic/rime-frost
+[submodule "fcitx5-pinyin-zhwiki"]
+	path = fcitx5-pinyin-zhwiki
+	url = https://github.com/felixonmars/fcitx5-pinyin-zhwiki
+[submodule "rime-double-pinyin"]
+	path = rime-double-pinyin
+	url = https://github.com/rime/rime-double-pinyin
+[submodule "rime-pinyin-simp"]
+	path = rime-pinyin-simp
+	url = https://github.com/rime/rime-pinyin-simp
